@@ -11,3 +11,7 @@ Serve web site. You need to install Mojolicious from CPAN.
   morbo serve.pl
 
 These file is copied from Giblog/Command/new_website/proto directory.
+
+Site URL
+
+https://yuki-kimoto.github.io/giblog-theme1-public/
